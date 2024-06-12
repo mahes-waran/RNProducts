@@ -5,6 +5,9 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 <img width=200 height=250 src="./screenshot/Product One.png"> <img width=200 height=250 src="./screenshot/Product Two.png"> <img width=200 height=250 src="./screenshot/Product Three.png">
 <img width=200 height=250 src="./screenshot/PD One.png"> <img width=200 height=250 src="./screenshot/PD TWO.png"> <img width=200 height=250 src="./screenshot/PD Three.png">
 
+# Author
+### Umamaheswaran Krishnan
+
 # Getting Started
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
